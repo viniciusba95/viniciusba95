@@ -2,9 +2,9 @@
 
 ## Quem sou eu:
 
-### - Tecnólogo em redes de computadores pela faculdade Impacta, :student:
+### - Tecnólogo em redes de computadores pela faculdade Impacta :student:
 
-### - Trabalho com suporte técnico, prestando serviço para uma das maiores empresas de tecnologia do mundo, :technologist:
+### - Trabalho com suporte técnico, prestando serviço para uma das maiores empresas de tecnologia do mundo :technologist:
 
 ### - Atualmente estou estudando desenvolvimento web - full stack :robot:
 
